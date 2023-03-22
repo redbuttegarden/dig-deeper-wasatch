@@ -3854,6 +3854,11 @@ body.is-menu-visible #menu {
     font-size: 1.25em;
   }
 
+  #banner h2 img {
+    display: block;
+    margin: auto;
+  }
+
   #banner br {
     display: none;
   }
