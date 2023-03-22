@@ -4,7 +4,6 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
-googleAnalytics = 'GTM-WKPTC3W'
 
 [params]
 fancyTitle = '<img height="128" src="/images/logo.svg" alt="Logo"/><br />Dig Deeper Wasatch' # title for frontpage, may include image
@@ -14,6 +13,7 @@ description = 'Website under construction'
 startbuttonText = "Activate"
 startbuttonLink = "#"
 body_is_markdown = true
+googleAnalyticsID = 'GTM-WKPTC3W'
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
 
