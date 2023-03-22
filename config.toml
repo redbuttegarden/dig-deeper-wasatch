@@ -4,6 +4,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
+googleAnalytics = 'G-GTM-WKPTC3W'
 
 [params]
 fancyTitle = '<img height="128" src="/images/logo.svg" alt="Logo"/><br />Dig Deeper Wasatch' # title for frontpage, may include image
