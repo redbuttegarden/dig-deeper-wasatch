@@ -4101,6 +4101,25 @@ body.is-mobile #main > header {
   text-align: center;
 }
 
+hr {
+  margin: 30px 0;
+  height: 1px;
+  border: none;
+  background: -webkit-gradient(linear, 0 0, 100% 0, from(transparent), to(transparent), color-stop(50%, #00ffcc));
+}
+
+#footer h3 {
+  color: #8e8892;
+}
+
+#footer p {
+  margin: 0;
+}
+
+#footer .contact {
+  margin: 1em 0;
+}
+
 #footer .icons {
   font-size: 1.25em;
 }
@@ -4111,6 +4130,10 @@ body.is-mobile #main > header {
 
 #footer .icons a:hover {
   color: #fff;
+}
+
+#footer ul {
+  margin: 1em 2em;
 }
 
 #footer .copyright {

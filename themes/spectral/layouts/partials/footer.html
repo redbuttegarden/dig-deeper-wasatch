@@ -19,8 +19,18 @@
               {{ with .Site.Params.contact.phone }}
               <li><a href="tel:{{ . }}" class="icon fa-phone"><span class="label">Phone</span></a></li>
               {{ end }}
-
 						</ul>
+
+            <hr />
+            <div class="copyright contact">
+              <h3>Contact:</h3>
+              <p>Jasmine Millard</p>
+              <p>Adult Programs Manager</p>
+              <p>Red Butte Garden</p>
+              <p><a href="mailto:jasmine.reading@redbutte.utah.edu">jasmine.reading@redbutte.utah.edu</a></p>
+            </div>
+            <hr />
+
 						<ul class="copyright">
               <li>&copy; {{ now.Year }} {{.Site.Params.copyright | safeHTML }}</li>
 						</ul>

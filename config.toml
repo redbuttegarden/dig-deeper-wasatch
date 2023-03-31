@@ -49,7 +49,7 @@ img = "images/RBG_Stacked_TwoToneGRN.svg"
 url = "https://redbuttegarden.org"
 
 [[params.one.logo]]
-img = "images/utah-state-logo-220.png"
+img = "images/extension-wordmark.png"
 url = "https://extension.usu.edu/saltlake/"
 
 [params.two]
@@ -292,9 +292,9 @@ special = false
 enable = false
 title = "Contact"
 body = "Leave us a message."
-phone = "+49 (0) 030 000 000"
+#phone = "+49 (0) 030 000 000"
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
+#email = "jasmine.reading@redbutte.utah.edu"
 subject = "New Submission!"
 formspree_form_id = "example_invalid"
 
