@@ -9,108 +9,272 @@ theme = "spectral"
 fancyTitle = '<img height="128" src="/images/logo.svg" alt="Logo"/><br />Dig Deeper Wasatch' # title for frontpage, may include image
 fancySubtitle = 'Yard and Garden Program'
 copyright = '<a href="https://redbuttegarden.org">Red Butte Garden</a><br />Dig Deeper Wasatch'
-description = 'Website under construction'
-startbuttonText = "Activate"
-startbuttonLink = "#"
+#description = 'Website under construction'
+startbuttonText = "Class Schedule"
+startbuttonLink = "#three"
 body_is_markdown = true
 googleAnalyticsID = 'GTM-WKPTC3W'
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
 
-[[params.menu.main]]
-url = '/'
-title = "Home"
+[params.menu]
+enable = false
 
 [[params.menu.main]]
-url = '/posts/'
-title = "Posts"
+#url = '/'
+#title = "Home"
+
+[[params.menu.main]]
+#url = '/posts/'
+#title = "Posts"
 
 [taxonomies]
-    tag = "tags"
-    category = "categories"
-    series = "series"
+tag = "tags"
+category = "categories"
+series = "series"
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+#title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+Are you looking to step-up your gardening and landscape skills? Dig Deeper Wasatch: Yard and Garden Program brings together three educational partners that are experts in gardening along the Wasatch Front. In each class you will learn techniques and best practices on a wide array of topics while keeping water conservation and sustainability in mind. You will find there is something for all skill sets and interests.
 '''
 
-[[params.one.icon]]
-icon = "fa-diamond"
-style = "1"
-label = "Lorem"
+[[params.one.logo]]
+img = "images/garden_park_logo.png"
+url = "https://conservationgardenpark.org/events"
 
-[[params.one.icon]]
-icon = "fa-heart-o"
-style = "2"
-label = "Ipsum"
+[[params.one.logo]]
+img = "images/RBG_Stacked_TwoToneGRN.svg"
+url = "https://redbuttegarden.org"
 
-[[params.one.icon]]
-icon = "fa-code"
-style = "3"
-label = "Dolor"
+[[params.one.logo]]
+img = "images/utah-state-logo-220.png"
+url = "https://extension.usu.edu/saltlake/"
 
 [params.two]
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "images/usu_info_img.png"
+#title = 'Magna primis lobortis<br />sed ullamcorper'
+body = '''
+Utah State University Extension provides research-based programs and resources with the goal of improving the lives of individuals, families and communities throughout Utah. USU Extension operates through a cooperative agreement between the United States Department of Agriculture, Utah State University, and county governments. Founded in 1914 as part of the Smith-Lever Act, USU Extension plays a primary role in helping Utah State University fulfill its land-grant mission. Though more than 100 years old, USU Extension is as vital as ever, and perhaps even more so, due to the increased diversity and complexity of the issues people encounter today. The integration of teaching, research, and public service enables USU Extension to respond to critical and emerging issues with research-based, unbiased information.
+'''
 
 [[params.two.section]]
-img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "images/rbg_info_img.png"
+#title = 'Tortor dolore feugiat<br />elementum magna'
+body = '''
+Red Butte Garden is one of the largest botanical gardens in the Intermountain West and together with the University of Utah, is the State Arboretum of Utah. We are located on 100 acres in the foothills on the eastern edge of the University of Utah campus. The Garden has welcomed guests since 1985 and consists of over 21 acres of developed gardens and five miles of hiking trails winding through an extensive Natural Area. The Garden; which is community-funded; is renowned for its numerous plant collections, display gardens, 560,000 springtime blooming bulbs; including a vast collection of daffodils; gorgeous private event spaces, a world-class outdoor concert series, and award-winning horticulture-based educational programs.
+'''
 
 [[params.two.section]]
-img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "images/cgp_info_img.png"
+#title = 'Magna primis lobortis<br />sed ullamcorper'
+body = '''
+At Conservation Garden Park, we model the best use of water in Utah landscapes and empower communities to make the most of our shared water resources. We showcase landscapes suited for Utah's unique climate that are not only beautiful and easier to maintain but are also designed to efficiently use water. Here you learn how simple changes can result in big water savings.
+The garden is located in West Jordan, with more than 8 acres of exhibits, pathways, plants, and interactive activities. It is the premier destination for learning about Utah’s unique climate and the role each of us can play in protecting our water supply.
+'''
+
+[params.one_again]
+enable = true
+#title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+body = '''
+Dig Deeper Wasatch is a partnership program that aims to deepen participant knowledge of successful Wasatch Front gardening practices. Three dynamic partners have come together to provide locally relevant expertise in trees, flowers, grass, edibles, soils and more. Learn to grow radiant and resilient yards and gardens that thrive in our Wasatch Front growing conditions!
+ 
+This garden program will start at the beginning of each year and will have classes scheduled throughout the year that attendees can pick from. Participants will need to complete 3 “core” courses and 2 “electives” courses in any one given year to complete the program and obtain the certificate. Once a student has completed the minimum requirements for the program, they are responsible for reaching out to jasmine.reading@redbutte.utah.edu to report successful completion.
+ 
+Participants also have the option of taking any course offered in the program without the obligation of finishing the certificate program.
+ 
+Classes are held at Red Butte Garden in Salt Lake City, Conservation Garden Park in West Jordan, and Wheeler Historic Farm in Murray, Utah. A few select classes are virtual and held online. Registration is required for each class.
+ 
+See below for the class schedule and registration tabs for more information on upcoming class offerings, locations, and individual class registration fees.
+ 
+*Note for participants interested in completing the program:
+To ensure you are taking a course that is a part of the program, please make sure that the class registration page has the Dig Deeper Wasatch Logo.*
+'''
 
 [params.three]
 enable = true
-title = 'Accumsan mus tortor nunc aliquet'
+title = '2023 Class Schedule'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+*Registration links with class descriptions, prices, and location coming soon!*
 '''
 
 [[params.three.feature]]
-icon = "fa-paper-plane-o"
-title = "Arcu accumsan"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+#icon = "fa-paper-plane-o"
+title = "Localscapes University (CORE COURSE)"
+body = '''
+April 29th/ August 5th
+<br />
+Conservation Garden Park
+'''
 
 [[params.three.feature]]
-icon = "fa-laptop"
-title = "Ac Augue Eget"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+#icon = "fa-laptop"
+title = "Flip your Strip and Side Yard (CORE COURSE)"
+body = '''
+May 13th / July 15th / September 7th
+<br />
+Conservation Garden Park
+'''
 
 [[params.three.feature]]
-icon = "fa-code"
-title = "Foo bar"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+#icon = "fa-code"
+title = "Basic Irrigation Repairs (CORE COURSE)"
+body = '''
+April 20th / Aug 17th
+<br />
+Conservation Garden Park
+'''
 
 [[params.three.feature]]
-icon = "fa-headphones"
-title = "Baz kram"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+#icon = "fa-headphones"
+title = "Rainwater Harvesting for Homeowners (ELECTIVE COURSE)"
+body = '''
+May 9th
+<br />
+Conservation Garden Park
+'''
 
 [[params.three.feature]]
-icon = "fa-heart-o"
-title = "Some latin text"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+#icon = "fa-heart-o"
+title = "Localscapes Irrigation Workshop (ELECTIVE COURSE)"
+body = '''
+May 18th / Aug 26th
+<br />
+Conservation Garden Park
+'''
 
 [[params.three.feature]]
-icon = "fa-flag-o"
-title = "Nothing important"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+#icon = "fa-flag-o"
+title = "Common Utah Weeds and How to Control Them (ELECTIVE COURSE)"
+body = '''
+August 10th
+<br />
+Conservation Garden Park
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "Growing Garden Greats Starts from the Roots Up! (CORE COURSE)"
+body = '''
+May 20th / August 12th
+<br />
+USU Extension
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "Composting Your Way to Black Gold  (CORE COURSE)"
+body = '''
+April 20th / September 16th
+<br />
+USU Extension
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "Radiant and Resilient Landscape Plants (CORE COURSE)"
+body = '''
+June 24th / October 21st
+<br />
+USU Extension
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "Growing Garden Great Veggie and Herbs! (ELECTIVE COURSE)"
+body = '''
+May 23rd
+<br />
+USU Extension
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "Insect Pests of the Wasatch West! (ELECTIVE COURSE)"
+body = '''
+June
+<br />
+USU Extension
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "Homegrown Cut Flower Power (ELECTIVE COURSE)"
+body = '''
+July 22nd
+<br />
+USU Extension
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "Ornamental Grasses  (CORE COURSE)"
+body = '''
+September
+<br />
+Red Butte Garden
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "101 Plants to Know  (CORE COURSE)"
+body = '''
+April - October
+<br />
+Red Butte Garden
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "Choosing the Best Roses  (ELECTIVE COURSE)"
+body = '''
+April 13
+<br />
+Red Butte Garden
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "Rose Maintenance  (CORE COURSE)"
+body = '''
+June 15 & June 17
+<br />
+Red Butte Garden
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "Growing Roses Sustainably in Heat and Drought  (CORE COURSE)"
+body = '''
+June 22
+<br />
+Red Butte Garden
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "Rose Pests and Disease  (CORE COURSE)"
+body = '''
+July 13
+<br />
+Red Butte Garden
+'''
+
+[[params.three.feature]]
+#icon = "fa-flag-o"
+title = "Native Seed Collecting (ELECTIVE COURSE)"
+body = '''
+September
+<br />
+Red Butte Garden
+'''
 
 [params.cta]
-enable = true
+enable = false
 title = "Arcue ut vel commodo"
 body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
 
