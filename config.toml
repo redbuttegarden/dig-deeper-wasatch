@@ -97,180 +97,288 @@ To ensure you are taking a course that is a part of the program, please make sur
 
 [params.three]
 enable = true
-title = '2023 Class Schedule'
-body = '''
-*Registration links with class descriptions, prices, and location coming soon!*
-'''
+title = '2024 Class Schedule'
 
 [[params.three.feature]]
-#icon = "fa-paper-plane-o"
-title = "Localscapes University (CORE COURSE)"
+title = "Composting Your Way to Black Gold! (webinar) Jordan Valley Conservation Garden Park: 9 am to 10 am: Core Class"
 body = '''
-April 29th/ August 5th
+March 2nd
 <br />
-Conservation Garden Park
-'''
-
-[[params.three.feature]]
-#icon = "fa-laptop"
-title = "Flip your Strip and Side Yard (CORE COURSE)"
-body = '''
-May 13th / July 15th / September 7th
 <br />
-Conservation Garden Park
-'''
-
-[[params.three.feature]]
-#icon = "fa-code"
-title = "Basic Irrigation Repairs (CORE COURSE)"
-body = '''
-April 20th / Aug 17th
+Nothing is more gratifying than recycling kitchen scraps into black gold! This class will detail a recipe for successful backyard composting. Topics include what to add, what to do, what to expect, and how to troubleshoot composting problems. Come learn how to make a compost bin part of your landscape plan!
 <br />
-Conservation Garden Park
-'''
-
-[[params.three.feature]]
-#icon = "fa-headphones"
-title = "Rainwater Harvesting for Homeowners (ELECTIVE COURSE)"
-body = '''
-May 9th
 <br />
-Conservation Garden Park
+<a href="https://www.eventbrite.com/e/backyard-composting-tickets-777934020597?aff=ebdshpsearchautocomplete&_gl=1*1xrel7s*_up*MQ..&gclid=CjwKCAiAivGuBhBEEiwAWiFmYXF5gZoWkpgZCvWUSgKrZCfpg3-m7nXtyFprrnbM0_14QoqPbUd5bxoC5xcQAvD_BwE&gclsrc=aw.ds">Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-heart-o"
-title = "Localscapes Irrigation Workshop (ELECTIVE COURSE)"
+title = "Rose Pruning (Core Course)"
 body = '''
-May 18th / Aug 26th
+March 13 & 16
 <br />
-Conservation Garden Park
+<br />
+Spend an evening learning the best rose pruning techniques then put that knowledge to practice at Red Butte Garden with expert horticulturist Crystal Kim. In this two-part class, you’ll learn how to properly prune your roses for maximum bloom and health.
+<br />
+<br />
+Two-Part Class:
+<br />
+<br />
+Wednesday, March 13 from 6-7:30PM
+<br />
+Saturday, March 16 from 10:30AM-Noon or 1:30-3PM
+<br />
+<br />
+Students will be assigned an in-person Saturday meeting time during the March 13 class.
+<br />
+<br />
+<a href="https://55218.blackbaudhosting.com/55218/Rose-Pruning-In-Utah-313--316?_gl=1*sdnz1t*_ga*MTYwMTMyNTMyNi4xNjg3MzY1OTcw*_ga_EF9MCVBYLR*MTcwODk3ODUwNS4xODkuMS4xNzA4OTc4NTE3LjAuMC4w">Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
 title = "Common Utah Weeds and How to Control Them (ELECTIVE COURSE)"
 body = '''
-August 10th
+March 14th
 <br />
-Conservation Garden Park
+<br />
+This class will cover organic, mechanical, and chemical methods of weed control and best practices of Integrated Pest Management (IPM).
+<br />
+<br />
+<a href="https://conservationgardenpark.org/events/1690/common-utah-weeds-and-how-to-control-them">Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Growing Garden Greats Starts from the Roots Up! (CORE COURSE)"
+title = "Localscapes University (CORE COURSE)"
 body = '''
-May 20th / August 12th
+March 16th / May 16th / September 7th
 <br />
-USU Extension
+<br />
+Localscapes is a five-step design process developed with Utah and water conservation in mind. This 2-hour class will teach you how to apply the Localscapes method correctly to ensure you achieve all the benefits a Localscape provides. We'll cover the five steps in detail including landscape layout, an overview of irrigation, and planting bed basics.
+<br />
+<br />
+<a href="https://conservationgardenpark.org/events/1691/localscapes-university">Saturday, March 16 Registration Link</a>
+<br />
+<a href="https://conservationgardenpark.org/events/1703/localscapes-university">Thursday, May 16 Registration Link</a>
+<br />
+<a href="https://conservationgardenpark.org/events/1719/localscapes-university">Saturday, September 7 Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Composting Your Way to Black Gold  (CORE COURSE)"
+title = "Saving the Monarchy: On Milkweeds and Monarchs (Elective Course)"
 body = '''
-April 20th / September 16th
+April 9, 6-7:30PM
 <br />
-USU Extension
+<br />
+When was the last time you saw a monarch? It might be related to the last time you saw milkweed.  Join us to learn more about this symbiotic relationship at this informative and engaging workshop, and about Utah’s role in the lifecycle of the monarch butterfly.
+<br />
+<br />
+Hear directly from local expert, Rachel Taylor (Friends of Monarchs) about the current state of the species and the cause of the decline, their lifecycle and migration, and why milkweed is critical to their survival. Rachel will share fun and easy ways to help make a difference in monarch (and other pollinator) conservation.
+<br />
+<br />
+We will finish by planting native milkweed seeds in class for you to take home and grow in a sunny, warm location. These should be ready to transplant outdoors in late May.
+<br />
+<br />
+Handouts include instructions for a “Monarch Waystation”, sample garden designs, native pollinator plant lists to choose from, bookmarks, stickers and more.
+<br />
+<br />
+<a href="https://55218.blackbaudhosting.com/55218/Saving-the-Monarchy--On-Monarchs-and-Milkweed?_gl=1*1gzbqif*_ga*MTYwMTMyNTMyNi4xNjg3MzY1OTcw*_ga_EF9MCVBYLR*MTcwOTE1MDI1Mi4xOTEuMS4xNzA5MTUxNzU3LjAuMC4w">Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Radiant and Resilient Landscape Plants (CORE COURSE)"
+title = "101 Plants to Know at Red Butte Garden (2 core Course Credits)"
 body = '''
-June 24th / October 21st
+This is a seven-class series:
 <br />
-USU Extension
+April 23, May 21, June 18, July 16, August 20, Sep 17, Oct 15
+<br />
+Tuesdays, 6-8 PM
+<br />
+<br />
+Do you wander the aisles of the garden center and become overwhelmed by all of the choices? Before spending hundreds of dollars, would you like to know what certain shrubs, perennials, or trees could look like in ten years? Then this class is for you.
+<br />
+<br />
+Join us for this three-season course as we look at 101 truly remarkable plants suited for the Wasatch Front garden. We will discover plants starting with spring bulbs and conclude with trees and shrubs that bear great fall color, and everything in between. Each class will cover topics such as plant identification, cultural requirements, and how plants are best used in the garden.
+<br />
+<br />
+We will walk the Garden each class to take an up-close look at the various plants as they are discussed. Perfect for novice gardeners and plant enthusiasts alike, this course is sure to widen your plant palette and introduce you to some truly unique and amazing plants! Classes meet on the 3rd Thursday of each month.
+<br />
+<br />
+<a href="https://55218.blackbaudhosting.com/55218/101-Plants-to-Know-at-Red-Butte-Garden---April-23-May-21-Jun-18-Jul-23-Aug-20-Sep-24-Oct-16?_gl=1*hd4l9h*_ga*MTYwMTMyNTMyNi4xNjg3MzY1OTcw*_ga_EF9MCVBYLR*MTcwODk3ODUwNS4xODkuMS4xNzA4OTc4NjIxLjAuMC4w">Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Growing Garden Great Veggie and Herbs! (ELECTIVE COURSE)"
+title = "Basic Irrigation Repairs (ELECTIVE COURSE)"
 body = '''
-May 23rd
+April 25th
 <br />
-USU Extension
+<br />
+Landscapes in Utah rely on water from irrigation systems during the growing season to look their best. This class will focus on how to analyze and repair your irrigation system to make sure it is running efficiently.
+<br />
+<br />
+<a href="https://conservationgardenpark.org/events/1699/basic-irrigation-repairs">Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Insect Pests of the Wasatch West! (ELECTIVE COURSE)"
+title = "Tree Fruit Grafting (Wheeler Farm Outdoor Education Center): 2 pm to 3:30 pm – Elective Class"
 body = '''
-June
+April 27th
 <br />
-USU Extension
+<br />
+Grafting is the age-old practice of joining plants to specific root systems to get the desirable benefits of both parts. USU Extension provides several upcoming workshops to teach the science and techniques of grafting. Workshop participants will graft two apple trees on semi-dwarf rootstock that they will take home at the end of the class. Participants can select from the various heirloom and modern apple varieties supplied. Materials for the class will be supplied as part of the registration fee. Additional rootstocks and scion wood may be available to purchase at the end of the class for an additional fee.
+<br />
+<br />
+<a href="https://www.eventbrite.com/e/dig-deeper-wasatch-apple-tree-grafting-workshop-elective-tickets-851721621297">Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Homegrown Cut Flower Power (ELECTIVE COURSE)"
+title = "Growing Garden Great Veggie and Herbs! (Wheeler Farm Outdoor Education Center) 6 pm to 7:30 pm: $5 – Elective Class"
 body = '''
-July 22nd
+May 2nd
 <br />
-USU Extension
+<br />
+Glorious edible gardens require heat, sunlight, water, and a little gardening know-how. This class will lay the groundwork for growing successful vegetable and herb gardens along the Wasatch Front. Instruction will follow the growth of popular cool and warm season vegetables and herbs throughout the growing season. Learn how to combat weeds and provide for your favorite edible garden plant’s needs!
+<br />
+<br />
+<a href="https://www.eventbrite.com/e/dig-deeper-wasatch-growing-garden-great-veggies-and-herbs-elective-tickets-851730417607">Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Ornamental Grasses  (CORE COURSE)"
+title = "Conservation Garden Tour (ELECTIVE COURSE)"
 body = '''
-September 26th
+May 4th / June 6th / July 11th / Aug 17th / September 14th
 <br />
-Red Butte Garden
+<br />
+Take a walk with us through Conservation Garden Park and learn how to see landscapes differently. On the tour, we'll visit a number of inspiring exhibits while our guide shares ways to incorporate the concepts demonstrated into your own landscape.
+<br />
+<br />
+<a href="https://conservationgardenpark.org/events/1701/conservation-garden-tour">Saturday, May 4 Registration Link</a>
+<br />
+<a href="https://conservationgardenpark.org/events/1708/conservation-garden-tour">Thursday, June 6 Registration Link</a>
+<br />
+<a href="https://conservationgardenpark.org/events/1712/conservation-garden-tour">Thursday, July 11 Registration Link</a>
+<br />
+<a href="https://conservationgardenpark.org/events/1716/conservation-garden-tour">Saturday, August 17 Registration Link</a>
+<br />
+<a href="https://conservationgardenpark.org/events/1720/conservation-garden-tour">Saturday, September 14 Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "101 Plants to Know  (CORE COURSE)"
+title = "Flip your Strip (CORE COURSE)"
 body = '''
-April - October
+May 18th / September 5th
 <br />
-Red Butte Garden
+<br />
+Learn the best techniques to add curb appeal and save water by removing non-functional lawn from your landscape. This class focuses on best practices to save water through appropriate watering, plant selection, and planned maintenance. We will begin by teaching you how to identify non-functional areas of lawn in your landscape then cover the steps to flip it into a beautiful water efficient landscape.
+<br />
+<br />
+<a href="https://conservationgardenpark.org/events/1704/localscapes-university">Saturday, May 18 Registration Link</a>
+<br />
+<a href="https://conservationgardenpark.org/events/1718/localscapes-university">Thursday, September 5 Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Choosing the Best Roses  (ELECTIVE COURSE)"
+title = "Rose Maintenance (Core Course)"
 body = '''
-April 13
+Wednesday, June 19 from 6-7:30 PM AND Saturday, June 22, 9-11 AM OR 12-2 PM
 <br />
-Red Butte Garden
+<br />
+Learn the best techniques for maintaining and caring for your roses in this two-part course. Topics include: planting, watering, fertilizing, deadheading, propagation, and winter protection. Then join us for an outdoor class at Red Butte Garden to view roses and participate in a demonstration and practice of rose maintenance techniques.
+<br />
+<br />
+Saturday class-time assignments will be made during the first class.
+<br />
+<br />
+<a href="https://55218.blackbaudhosting.com/55218/Rose-Maintenance-619-622?_gl=1*1ykn8af*_ga*MTYwMTMyNTMyNi4xNjg3MzY1OTcw*_ga_EF9MCVBYLR*MTcwOTIzNzU2OS4xOTMuMS4xNzA5MjM4MzA1LjAuMC4w">Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Rose Maintenance  (CORE COURSE)"
+title = "Growing Garden Greats Starts from the Roots Up! (Wheeler Historic Farm Outdoor Education Center) 10 am to 11:30 am: $5 – Core Class"
 body = '''
-June 15 & June 17
+June 22nd
 <br />
-Red Butte Garden
+<br />
+Take a journey underground and discover what happens around plant roots! This class will cover basic soil management techniques that bolster plant productivity, soil health, and resilient landscape plants! Topics of discussion include soil amendments, basic soil ecology, soil fertility, soil water management, soil testing, and common soil related problems that impact plant growth along the Wasatch Front!
+<br />
+<br />
+<a href="https://www.eventbrite.com/e/dig-deeper-wasatch-growing-garden-greats-starts-from-the-roots-up-core-class-tickets-851736495787">Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Growing Roses Sustainably in Heat and Drought  (CORE COURSE)"
+title = "Home Grown Flower Power (I): Cut Flower Growing (Wheeler Farm Outdoor Education Center): 10 am to 11:30 am: $10 – Elective Class"
 body = '''
-June 22
+July 13th
 <br />
-Red Butte Garden
+<br />
+Did you know cut flower production is one of the fastest growing agriculture industries in Utah! Not only are cut flowers fun to grow, but they also beautify our landscapes and homes and enhance our mental state of mind. This class will discuss cut flowers that are easy to grow along the Wasatch front and provide tips for harvesting and arranging them. You will leave with basic knowledge on how to grow a bouquet of blooms to enjoy yourself or to gift to someone you love!
+<br />
+<br />
+<a href="https://www.eventbrite.com/e/dig-deeper-wasatch-home-grown-flower-power-part-1-cut-flower-growing-tickets-851743887897">Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Rose Pests and Disease  (CORE COURSE)"
+title = "Home Grown Flower Power (II): Cut Flower Arranging (Wheeler Farm Outdoor Education Center): 10 am to 11:30 am: $10 – Elective Class"
 body = '''
-July 13
+August 3rd
 <br />
-Red Butte Garden
+<br />
+Growing home grown cut flowers is only half the fun! Learn how to arrange your backyard blooms into an attractive arrangement of garden splendor. Home grown flowers make fabulous gifts and are equally as fabulous displayed in your own home.
+<br />
+<br />
+<a href="https://www.eventbrite.com/e/dig-deeper-wasatch-home-grown-flower-power-part-2-cut-flower-arranging-tickets-851747227887">Registration Link</a>
 '''
 
 [[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Native Seed Collecting (ELECTIVE COURSE)"
+title = "Native Seed Collecting (Core Course)"
 body = '''
-September 7 & 14
+Tuesdays, September 3 & 10
 <br />
-Red Butte Garden
+5:30-7:30pm
+<br />
+<br />
+Join Red Butte Garden’s botanist, Neal Dombrowski for a two part class to learn about seed collection. We’ll explore when to harvest, how to handle seeds after collection, and how to plant them for best results. We’ll provide a list of plants, and plant labels and envelopes. Please bring gloves and hand pruners.
+<br />
+<br />
+We’ll be collecting seeds from Utah sweetvetch, blue flax, prairie coneflower, milkweed, Rocky Mountain beeplant, aspen, daisy, chocolate flower, bluebunch wheatgrass, little bluestem, sideoats grama, and many more Utah native plants!
+<br />
+<br />
+<a href="https://55218.blackbaudhosting.com/55218/Native-Seed-Collecting-03Sep2024?_gl=1*a7beqd*_ga*MTYwMTMyNTMyNi4xNjg3MzY1OTcw*_ga_EF9MCVBYLR*MTcwOTIzNzU2OS4xOTMuMS4xNzA5MjM4Mzk4LjAuMC4w">Registration Link</a>
+'''
+
+[[params.three.feature]]
+title = "Ornamental Grasses (Elective Course)"
+body = '''
+Wednesday, September 4, 6-7PM
+<br />
+Thursday, September 5, 6-7:30PM
+<br />
+<br />
+The unique colors, textures, form, and movement of ornamental grasses complete the fall garden. In this two-part class, join us on a deep dive into possibly the most important plant family in the world, and learn everything you ever wanted to know about grasses and probably a little more. In the first class you will learn and explore fruit, flowers, florets, and inflorescences. In the second class, the self-proclaimed "Prince of the Poaceae," Eddy Dawson, will lead you on a tour of Red Butte Garden's vast grass collection.
+<br />
+<br />
+<a href="https://55218.blackbaudhosting.com/55218/Ornamental-Grasses-94--95?_gl=1*49s5b5*_ga*MTYwMTMyNTMyNi4xNjg3MzY1OTcw*_ga_EF9MCVBYLR*MTcwOTIzNzU2OS4xOTMuMS4xNzA5MjM4NDM3LjAuMC4w">Registration Link</a>
+'''
+
+[[params.three.feature]]
+title = "Radiant and Resilient Landscape Plants (Wheeler Farm Outdoor Education Center): 6 pm to 7:30 pm: $5 – Core Class"
+body = '''
+September 5th
+<br />
+<br />
+Chances are that summertime heat and drought are here to stay in Utah. But the good news is, with a little planning, Wasatch Front gardeners can transition landscape plants to become more resilient. Learn about techniques to train different types of landscape plants to grow and thrive during heat and drought conditions. Discussion will cover turf areas, planting beds, and even vegetable gardens!
+<br />
+<br />
+<a href="https://www.eventbrite.com/e/dig-deeper-wasatch-radiant-and-resilient-landscape-plants-core-class-tickets-851753275977">Registration Link</a>
+'''
+
+[[params.three.feature]]
+title = "Composting Your Way to Black Gold! (Wheeler Farm Outdoor Education Center): 6 pm to 7:30 pm: $5 – Core Class"
+body = '''
+October 3rd
+<br />
+<br />
+Nothing is more gratifying than recycling kitchen scraps into black gold! This class will detail a recipe for successful backyard composting. Topics include what to add, what to do, what to expect, and how to troubleshoot composting problems. Come learn how to make a compost bin part of your landscape plan!
+<br />
+<br />
+<a href="https://www.eventbrite.com/e/dig-deeper-wasatch-composting-your-way-to-black-gold-core-class-tickets-851756565817">Registration Link</a>
 '''
 
 [params.cta]
