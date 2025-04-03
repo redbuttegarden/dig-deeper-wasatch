@@ -104,11 +104,29 @@ body = '''
 
 [[params.three.feature]]
 #icon = "fa-paper-plane-o"
-title = "Grow Your Own Microgreens – Core Course"
+title = "Grow Your Own Microgreens (Core Course)"
 body = '''
 January 18, 2025<br>1-2 PM
-<br />
+<br>
 <a href="https://www.eventbrite.com/e/dig-deeper-wasatch-grow-microgreens-at-home-tickets-1114134629669?aff=oddtdtcreator">Registration</a>
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Fruit Tree Pruning (Core Course)"
+body = '''
+January 30, 2025<br>6-7:30 PM
+# <br>
+# <a href="you.can.put.a.link.here.com">Link Title</a>
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Rose Pruning (Core Course)"
+body = '''
+March 12 & 15, 2025<br>6-7:30 PM<br>9-11:30 AM or 12-2:30 PM
+# <br>
+# <a href="you.can.put.a.link.here.com">Link Title</a>
 '''
 
 [params.cta]
