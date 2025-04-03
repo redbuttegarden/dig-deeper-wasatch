@@ -106,23 +106,63 @@ body = '''
 #icon = "fa-paper-plane-o"
 title = "Grow Your Own Microgreens (Core Course)"
 body = '''
-January 18, 2025<br>1-2 PM
-<br>
-<a href="https://www.eventbrite.com/e/dig-deeper-wasatch-grow-microgreens-at-home-tickets-1114134629669?aff=oddtdtcreator">Registration</a>
+January 18, 2025<br>1-2PM<br>
+(Register <a href="https://www.eventbrite.com/e/dig-deeper-wasatch-grow-microgreens-at-home-tickets-1114134629669?aff=oddtdtcreator">here</a>.)
 '''
 
 [[params.three.feature]]
 #icon = "fa-paper-plane-o"
 title = "Fruit Tree Pruning (Core Course)"
 body = '''
-January 30, 2025<br>6-7:30 PM
+January 30, 2025<br>6-7:30PM
 '''
 
 [[params.three.feature]]
 #icon = "fa-paper-plane-o"
 title = "Rose Pruning (Core Course)"
 body = '''
-March 12 & 15, 2025<br>6-7:30 PM<br>9-11:30 AM or 12-2:30 PM
+March 12 & 15, 2025<br>6-7:30PM<br>9-11:30AM or 12-2:30PM
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Saving the Monarchy: On Monarchs and Milkweed (Elective Course)"
+body = '''
+March 31, 2025<br>6-7:30PM
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Introduction to Mushroom Cultivation Workshop (Core Course)"
+body = '''
+April 12, 2025<br>9AM-12PM<br>
+(Register <a href="https://www.eventbrite.com/e/introduction-to-home-mushroom-cultivation-tickets-1115902497409?aff=oddtdtcreator">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "101 Plants to Know (Core Course)"
+body = '''
+April 15, May 20, June 17, July 15, August 19, September 16, October 21 (all dates included in registration)<br>6-8PM<br>
+at Red Butte Garden & Arboretum<br>
+(Register <a href="https://redbuttegarden.org/plan-your-garden-visit/online-classes-virtual-resources/adult-education/101-plants-to-know-at-red-butte-garden/">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Wildflower Therapy (Elective Course)"
+body = '''
+April 16, May 14, June 18 (all dates included in registration)<br>5:30-7:30PM<br>
+at Red Butte Garden & Arboretum<br>
+(Register <a href="https://redbuttegarden.org/plan-your-garden-visit/online-classes-virtual-resources/adult-education/wildflower-therapy-at-red-butte-garden/">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Conservation Garden Tour (Elective Course)"
+body = '''
+April 19, 2025<br>11AM-12:30PM<br>
+(Register <a href="https://conservationgardenpark.org/events/1800/conservation-garden-tour">here</a>.)
 '''
 
 [params.cta]
