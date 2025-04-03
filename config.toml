@@ -143,8 +143,8 @@ April 12, 2025<br>9AM-12PM<br>
 #icon = "fa-paper-plane-o"
 title = "101 Plants to Know (Core Course)"
 body = '''
-April 15, May 20, June 17, July 15, August 19, September 16, October 21 (all dates included in registration)<br>6-8PM<br>
-at Red Butte Garden & Arboretum<br>
+April 15, May 20, June 17, July 15, August 19, September 16, October 21<br>(all dates included in registration)<br>6-8PM<br>
+Red Butte Garden & Arboretum<br>
 (Register <a href="https://redbuttegarden.org/plan-your-garden-visit/online-classes-virtual-resources/adult-education/101-plants-to-know-at-red-butte-garden/">here</a>.)
 '''
 
@@ -152,8 +152,8 @@ at Red Butte Garden & Arboretum<br>
 #icon = "fa-paper-plane-o"
 title = "Wildflower Therapy (Elective Course)"
 body = '''
-April 16, May 14, June 18 (all dates included in registration)<br>5:30-7:30PM<br>
-at Red Butte Garden & Arboretum<br>
+April 16, May 14, June 18<br>(all dates included in registration)<br>5:30-7:30PM<br>
+Red Butte Garden & Arboretum<br>
 (Register <a href="https://redbuttegarden.org/plan-your-garden-visit/online-classes-virtual-resources/adult-education/wildflower-therapy-at-red-butte-garden/">here</a>.)
 '''
 
@@ -162,7 +162,141 @@ at Red Butte Garden & Arboretum<br>
 title = "Conservation Garden Tour (Elective Course)"
 body = '''
 April 19, 2025<br>11AM-12:30PM<br>
+Conservation Garden Park<br>
 (Register <a href="https://conservationgardenpark.org/events/1800/conservation-garden-tour">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Caring for Utah Trees (Elective Course)"
+body = '''
+April 26, 2025<br>9-10AM<br>
+Conservation Garden Park<br>
+(Register <a href="https://conservationgardenpark.org/events/1833/caring-for-utah-trees">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Rethinking Rain (Elective Course)"
+body = '''
+May 1, 2025<br>6-7:30PM<br>
+Conservation Garden Park<br>
+(Register <a href="https://conservationgardenpark.org/events/1834/rethinking-rain">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Rain Harvesting for Homeowners (Elective Course)"
+body = '''
+May 8, 2025<br>6-7:30PM<br>
+Conservation Garden Park<br>
+(Register <a href="https://conservationgardenpark.org/events/1835/rain-harvesting-for-homeowners">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Localscapes University (Core Course)"
+body = '''
+May 15, 2025<br>6-8PM<br>
+Conservation Garden Park<br>
+(Register <a href="https://conservationgardenpark.org/events/1802/localscapes-university">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Flip Your Strip (Core Course)"
+body = '''
+May 17, 2025<br>9-10:30AM<br>
+Conservation Garden Park<br>
+(Register <a href="https://conservationgardenpark.org/events/1803/flip-your-strip">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Waterwise Plants Tour (Elective Course)"
+body = '''
+May 29, 2025<br>6-7:30PM<br>
+Conservation Garden Park<br>
+(Register <a href="https://conservationgardenpark.org/events/1805/waterwise-plants-tour">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Conservation Garden Tour (Elective Course)"
+body = '''
+June 28, 2025<br>9-10:30AM<br>
+Conservation Garden Park<br>
+(Register <a href="https://conservationgardenpark.org/events/1808/conservation-garden-tour">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Waterwise Plants Tour (Elective Course)"
+body = '''
+July 12, 2025<br>9-10:30AM<br>
+Conservation Garden Park<br>
+(Register <a href="https://conservationgardenpark.org/events/1809/waterwise-plants-tour">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Home Grown Flower Power: Integrating Flowers into the Landscape (Elective Course)"
+body = '''
+August 7, 2025<br>6:30-8:30PM<br>
+(Register <a href="https://www.eventbrite.com/e/home-grown-flower-power-integrating-flowers-into-the-landscape-tickets-1087200448809?aff=oddtdtcreator">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Conservation Garden Tour (Elective Course)"
+body = '''
+August 23, 2025<br>9-10:30AM<br>
+Conservation Garden Park<br>
+(Register <a href="https://conservationgardenpark.org/events/1810/conservation-garden-tour">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Flip Your Strip (Core Course)"
+body = '''
+September 4, 2025<br>9-10:30AM<br>
+Conservation Garden Park<br>
+(Register <a href="https://conservationgardenpark.org/events/1811/flip-your-strip">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Home Grown Flower Power: Harvesting and Arranging Bouquets"
+body = '''
+September 6, 2025<br>9AM-12PM<br>
+(Register <a href="https://www.eventbrite.com/e/home-grown-flower-power-harvesting-and-arranging-bouquets-tickets-1087245754319?aff=oddtdtcreator">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Localscapes University (Core Course)"
+body = '''
+September 6, 2025<br>6-8PM<br>
+Conservation Garden Park<br>
+(Register <a href="https://conservationgardenpark.org/events/1812/localscapes-university">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Native Seed Collecting (Core Course)"
+body = '''
+September 1 & 8, 2025<br>5-7PM<br>
+Red Butte Garden & Arboretum<br>
+(Register <a href="https://redbuttegarden.org/plan-your-garden-visit/online-classes-virtual-resources/adult-education/collecting-native-seeds/">here</a>.)
+'''
+
+[[params.three.feature]]
+#icon = "fa-paper-plane-o"
+title = "Bulb Forcing (Core Course)"
+body = '''
+October 4, 2025<br>9:30-11:30AM<br>
+Red Butte Garden & Arboretum<br>
+(Register <a href="https://redbuttegarden.org/plan-your-garden-visit/online-classes-virtual-resources/adult-education/bulb-forcing/">here</a>.)
 '''
 
 [params.cta]
