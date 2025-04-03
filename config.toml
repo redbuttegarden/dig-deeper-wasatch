@@ -45,7 +45,7 @@ img = "images/garden_park_logo.png"
 url = "https://conservationgardenpark.org/events"
 
 [[params.one.logo]]
-img = "images/rbga_uofu_white.png"
+img = "images/RBG_Stacked_TwoToneGRN.svg"
 url = "https://redbuttegarden.org"
 
 [[params.one.logo]]
