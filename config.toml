@@ -97,180 +97,18 @@ To ensure you are taking a course that is a part of the program, please make sur
 
 [params.three]
 enable = true
-title = '2023 Class Schedule'
+title = '2025 Class Schedule'
 body = '''
-*Registration links with class descriptions, prices, and location coming soon!*
+*Dig Deeper Wasatch: Yard and Garden Program*
 '''
 
 [[params.three.feature]]
 #icon = "fa-paper-plane-o"
-title = "Localscapes University (CORE COURSE)"
+title = "Grow Your Own Microgreens – Core Course"
 body = '''
-April 29th/ August 5th
+January 18, 2025<br>1-2 PM
 <br />
-Conservation Garden Park
-'''
-
-[[params.three.feature]]
-#icon = "fa-laptop"
-title = "Flip your Strip and Side Yard (CORE COURSE)"
-body = '''
-May 13th / July 15th / September 7th
-<br />
-Conservation Garden Park
-'''
-
-[[params.three.feature]]
-#icon = "fa-code"
-title = "Basic Irrigation Repairs (CORE COURSE)"
-body = '''
-April 20th / Aug 17th
-<br />
-Conservation Garden Park
-'''
-
-[[params.three.feature]]
-#icon = "fa-headphones"
-title = "Rainwater Harvesting for Homeowners (ELECTIVE COURSE)"
-body = '''
-May 9th
-<br />
-Conservation Garden Park
-'''
-
-[[params.three.feature]]
-#icon = "fa-heart-o"
-title = "Localscapes Irrigation Workshop (ELECTIVE COURSE)"
-body = '''
-May 18th / Aug 26th
-<br />
-Conservation Garden Park
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Common Utah Weeds and How to Control Them (ELECTIVE COURSE)"
-body = '''
-August 10th
-<br />
-Conservation Garden Park
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Growing Garden Greats Starts from the Roots Up! (CORE COURSE)"
-body = '''
-May 20th / August 12th
-<br />
-USU Extension
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Composting Your Way to Black Gold  (CORE COURSE)"
-body = '''
-April 20th / September 16th
-<br />
-USU Extension
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Radiant and Resilient Landscape Plants (CORE COURSE)"
-body = '''
-June 24th / October 21st
-<br />
-USU Extension
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Growing Garden Great Veggie and Herbs! (ELECTIVE COURSE)"
-body = '''
-May 23rd
-<br />
-USU Extension
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Insect Pests of the Wasatch West! (ELECTIVE COURSE)"
-body = '''
-June
-<br />
-USU Extension
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Homegrown Cut Flower Power (ELECTIVE COURSE)"
-body = '''
-July 22nd
-<br />
-USU Extension
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Ornamental Grasses  (CORE COURSE)"
-body = '''
-September 26th
-<br />
-Red Butte Garden
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "101 Plants to Know  (CORE COURSE)"
-body = '''
-April - October
-<br />
-Red Butte Garden
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Choosing the Best Roses  (ELECTIVE COURSE)"
-body = '''
-April 13
-<br />
-Red Butte Garden
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Rose Maintenance  (CORE COURSE)"
-body = '''
-June 15 & June 17
-<br />
-Red Butte Garden
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Growing Roses Sustainably in Heat and Drought  (CORE COURSE)"
-body = '''
-June 22
-<br />
-Red Butte Garden
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Rose Pests and Disease  (CORE COURSE)"
-body = '''
-July 13
-<br />
-Red Butte Garden
-'''
-
-[[params.three.feature]]
-#icon = "fa-flag-o"
-title = "Native Seed Collecting (ELECTIVE COURSE)"
-body = '''
-September 7 & 14
-<br />
-Red Butte Garden
+<a href="https://www.eventbrite.com/e/dig-deeper-wasatch-grow-microgreens-at-home-tickets-1114134629669?aff=oddtdtcreator">Registration</a>
 '''
 
 [params.cta]
