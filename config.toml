@@ -83,7 +83,7 @@ enable = true
 body = '''
 Dig Deeper Wasatch is a partnership program that aims to deepen participant knowledge of successful Wasatch Front gardening practices. Three dynamic partners have come together to provide locally relevant expertise in trees, flowers, grass, edibles, soils and more. Learn to grow radiant and resilient yards and gardens that thrive in our Wasatch Front growing conditions!
  
-This garden program will start at the beginning of each year and will have classes scheduled throughout the year that attendees can pick from. Participants will need to complete 3 “core” courses and 2 “electives” courses in any one given year to complete the program and obtain the certificate. Once a student has completed the minimum requirements for the program, they are responsible for reaching out to jasmine.reading@redbutte.utah.edu to report successful completion.
+This garden program will start at the beginning of each year and will have classes scheduled throughout the year that attendees can pick from. Participants will need to complete 3 “core” courses and 2 “electives” courses in any one given year to complete the program and obtain the certificate. Once a student has completed the minimum requirements for the program, they are responsible for reaching out to alex.lithgow@redbutte.utah.edu to report successful completion.
  
 Participants also have the option of taking any course offered in the program without the obligation of finishing the certificate program.
  
@@ -401,8 +401,8 @@ enable = false
 title = "Contact"
 body = "Leave us a message."
 #phone = "+49 (0) 030 000 000"
-address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-#email = "jasmine.reading@redbutte.utah.edu"
+#address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+email = "alex.lithgow@redbutte.utah.edu"
 subject = "New Submission!"
 formspree_form_id = "example_invalid"
 
